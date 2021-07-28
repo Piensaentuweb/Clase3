@@ -66,3 +66,14 @@ nav {
     cursor: pointer;
 
   }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    background-color: white;
+    color: rebeccapurple;
+    text-align: center;
+    height: 54px;
+ }
